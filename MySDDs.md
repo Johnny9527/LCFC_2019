@@ -9,6 +9,7 @@ made in LCFC.
 One of the solutions that I discussed and finalised with internal users was called "EDM-A40", and this solution was mainly focus on 
 customising an brand new working process and document workflow for the Taipei-Server team.
 
+
 ![](https://github.com/Johnny9527/LCFC_2019/blob/main/Pictures/EDMA40_Process.png)
 
 ↑ The EDM-A40 Process
@@ -22,6 +23,7 @@ functions.
 In this process, firstly, the EEs create an A40 document on the Server-PLM system then pass it to the layout team. Subsequently, the
 engineers of layout team have to upload related files according to its details. After that, the customized functions will take care
 the rest of the works under specific conditions.
+
 
 ![](https://github.com/Johnny9527/LCFC_2019/blob/main/Pictures/PracticeDefinition_.png)
 
