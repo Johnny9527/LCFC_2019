@@ -24,5 +24,15 @@ engineers of layout team have to upload related files according to its details. 
 the rest of the works under specific conditions.
 
 ![](https://github.com/Johnny9527/LCFC_2019/blob/main/Pictures/PracticeDefinition_.png)
-###### ↑ Details of every steps of the EDM-A40 process
+###### ↑ Details of every steps of the EDM-A40 process (The blurry part is confidential details)
+
+A good quality SDD document must be clear and concise to make sure that the key users or PLM development engineers who did not involve
+in the sessions can still understand every details of the content.
+
+![](https://github.com/Johnny9527/LCFC_2019/blob/main/Pictures/SystemUI.png)
+###### ↑ The SDD includes with UI step-by-step demonstration, teaching users how to manipulate the new prcoess.
+
+![](https://github.com/Johnny9527/LCFC_2019/blob/main/Pictures/SystemConfiguration_.png)
+###### ↑ The SDD also need to guide the PLM development engineers on how to configure the system according the users' requirements.
+######   (The blurry part is confidential details)
 
