@@ -11,8 +11,7 @@ customising an brand new working process and document workflow for the Taipei-Se
 
 
 ![](https://github.com/Johnny9527/LCFC_2019/blob/main/Pictures/EDMA40_Process.png)
-
-↑ The EDM-A40 Process
+### ↑ The EDM-A40 Process
 
 As the picture shows above, our key users of this requirement was the EE (Electronic Engineer) department under the Taipei-Server
 team. They wanted us (Server-PLM team) to create a customized working process on Server-PLM in order to meet their requirement.
@@ -24,8 +23,6 @@ In this process, firstly, the EEs create an A40 document on the Server-PLM syste
 engineers of layout team have to upload related files according to its details. After that, the customized functions will take care
 the rest of the works under specific conditions.
 
-
 ![](https://github.com/Johnny9527/LCFC_2019/blob/main/Pictures/PracticeDefinition_.png)
-
-↑ Details of every steps of the EDM-A40 process
+### ↑ Details of every steps of the EDM-A40 process
 
