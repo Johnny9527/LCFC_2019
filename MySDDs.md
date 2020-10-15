@@ -1,7 +1,7 @@
 ## Solution Design Documents (SDDs)
 
-Before I joined the LCFC, our company has already run a Windchill PLM system for years, and it is mainly used in the business group
-of Notebook manufacturing. In this repository, I will called this old PLM system as "NB-PLM". As our company want to expand business
+Before I joined the LCFC, LCFC has already run a Windchill PLM system for years, and it is mainly used in the business group of 
+Notebook manufacturing. In this repository, I will called this old PLM system as "NB-PLM". As our company want to expand business
 into Server industry, therefore, the goal of my team was to establish a new PLM that will mainly focus on the business group of Server
 manufacturing, and we called this new PLM system as "Server-PLM". In this repository, I will share parts of the internal SDDs that I
 made in LCFC.
@@ -35,4 +35,8 @@ in the sessions can still understand every details of the content.
 ![](https://github.com/Johnny9527/LCFC_2019/blob/main/Pictures/SystemConfiguration_.png)
 ###### ↑ The SDD also need to guide the PLM development engineers on how to configure the system according the users' requirements.
 ######   (The blurry part is confidential details)
+
+Although I had only served in LCFC for three months, I created four SDDs by myself, invloved in assisting several cross-department
+projects, and helped to deal with dozens of emergency issues. Therefore, I self-considered as a hard-working and enthusiactic employee
+of LCFC.
 
