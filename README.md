@@ -10,7 +10,7 @@
 
 * My personal responsibilities in LCFC was to organize and analyse internal users' requirements of Taipei, and also solved system's issues by configuring or developing customized functions. I was allocated in Taipei site, but LCFC's headquarter is located in Hefei China. Therefore, I needed to cooperate with the PLM team in Hefei remotely or even directly traveled to Hefei in order to deal with the problems.
 
-* Although I only devoted myself in LCFC for three months, during my time working in LCFC, I well demonstrated my personal value by constructing PLM system with delivering several Solution Design Documents (SDDs), which are the documentations usually written by professional PLM consultants in order to tell the engineers how to develope the customized functions and also guide the users in how to use the system functions. [For more information, please refers to "MySDDs.md"]
+* Although I only devoted myself in LCFC for three months, during my time working in LCFC, I well demonstrated my personal value by constructing PLM system with delivering several Solution Design Documents (SDDs), which are the documentations usually written by professional PLM consultants in order to tell the engineers how to develope the customized functions and also guide the users in how to use the system functions. [For more information, please refers to "MySDDs.md: https://github.com/Johnny9527/LCFC_2019/blob/main/MySDDs.md"]
 
 * I self-considered played a good role working as a PLM Solution Engineer in LCFC that I was asked to reconsider my resignation and stay in LCFC by the department manager, even I had decided to leave the company.
 
